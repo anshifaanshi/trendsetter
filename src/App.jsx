@@ -6,7 +6,7 @@ import HeroSection from "./sections/hero-section";
 
 import OurLatestCreations from "./sections/our-latest-creations";
 import OurTestimonialSection from "./sections/our-testimonials-section";
-import FaqSection from "./sections/faq-section";
+
 import Newsletter from "./sections/newsletter";
 
 export default function App() {
@@ -20,7 +20,7 @@ export default function App() {
          
                 <OurLatestCreations />
                 <OurTestimonialSection />
-                <FaqSection />
+         
             
             </main>
           
